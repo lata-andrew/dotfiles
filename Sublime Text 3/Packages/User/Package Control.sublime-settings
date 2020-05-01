@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"DiffTabs",
+		"Dockerfile Syntax Highlighting",
+		"HTML-CSS-JS Prettify",
+		"INI",
+		"Mako",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"sublack",
+		"SublimeLinter",
+		"SublimeLinter-addon-black-for-flake",
+		"SublimeLinter-flake8",
+		"Terraform",
+		"Theme - Freesia"
+	]
+}
