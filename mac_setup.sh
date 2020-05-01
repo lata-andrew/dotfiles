@@ -84,7 +84,7 @@ apps=(
   rectangle
   dash
   # cyberduck
-  transmit
+  # transmit
   firefox
   google-chrome
   #slack

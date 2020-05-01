@@ -11,3 +11,5 @@ alias ls='ls -GFhal'
 
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+
+alias brewup=‘brew update; brew upgrade; brew cleanup; brew doctor’
